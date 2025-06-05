@@ -38,5 +38,5 @@
 /tmp/
 .logs/
 
-src/test.java
+/src/test.java
 /bin/
